@@ -1,0 +1,15 @@
+Package: GLC.sample
+Type: Package
+Title: List of Relevant Sample Data of the Greek Learner Corpus
+Version: 0.1.0
+Author: Alexandros Tantos
+Maintainer: Alexandros Tantos <alextantos@lit.auth.gr>
+Description: This package offers access to sample metadata (of 100 L2-Greek students) in the Greek Learner Corpus (GLC) (Tantos & Papadopoulou, 2014; Tantos, 2015). GLC was assembled from written productions of learners in Greek primary and secondary education and was generated in the framework of the Action (2010-2014): Educational & Linguistic Support for Reception Classes (sub-action 1.5: Compiling Greek Learner Corpus) under the supervision of members of LAL2A’s team, Alexandros Tantos and Despina Papadopoulou. GLC consists of 426 pupils’ written productions (word tokens: 28.140, word types: 4.842) assembled within the placement tests of proficiency in L2-Greek accompanied with metadata, e.g. age, L1, age of onset, years of residence in Greece, years in the Greek educational system, parents’ ability in Greek, use of Greek at home etc. 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  ggplot2 (>= 3.1.0)
+Suggests:
+  knitr
+RoxygenNote: 6.1.1
