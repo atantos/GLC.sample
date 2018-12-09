@@ -1,6 +1,6 @@
 # GLC.sample
 <div align="justify">
-The <code>GLC.sample</code> package is a data package and consists of 6 vectors with metadata of a sample of 100 students whose productions have been recorded in the Greek Learner Corpus (GLC). The data in this package can serve as a testing suite for hypotheses related to the performance of L2-Greek learners as well as a training basis for teachers who would like to demonstrate some first notions of exploring a dataset quantitatively. </div>  
+The <code>GLC.sample</code> package is a data package that consists of 6 vectors with metadata of a sample of 100 students whose productions have been recorded in the Greek Learner Corpus (GLC). The data in this package can serve as a testing suite for hypotheses related to the performance of L2-Greek learners as well as a training basis for teachers who would like to demonstrate some first notions of exploring a dataset quantitatively. </div>  
 
 ## GLC and the data
 <div align="justify">
